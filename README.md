@@ -3,6 +3,9 @@
 An immersive, Apple-style 3D product showcase built using **Next.js 14**, **Framer Motion**, and **HTML5 Canvas**.  
 This project implements a scroll-driven, frame-by-frame 3D animation system to create smooth and responsive product rotations for beverage brands.
 
+### 🌐 My Published Website
+[Click here to view my site](https://3d-product-landing-page.netlify.app/).
+
 ---
 
 ## ✨ Features
